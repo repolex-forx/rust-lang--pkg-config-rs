@@ -26,7 +26,8 @@
       "ast": [
         "aggregate/ast/a8852cc148f8f7d504bf3a62444c298dcd3637f0/chunk-001.nq.gz"
       ],
-      "lsp": "aggregate/lsp/a8852cc148f8f7d504bf3a62444c298dcd3637f0.nq.gz"
+      "lsp": "aggregate/lsp/a8852cc148f8f7d504bf3a62444c298dcd3637f0.nq.gz",
+      "repolex": "aggregate/repolex/a8852cc148f8f7d504bf3a62444c298dcd3637f0/chunk-001.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
